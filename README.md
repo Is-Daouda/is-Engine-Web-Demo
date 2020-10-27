@@ -16,7 +16,7 @@ This project allows you to launch [is::Engine Hello World](https://github.com/Is
 5. Move the **is-Engine-Web-Demo** project to your **C:/ (C:/is-Engine-Web-Demo)**.
 
 #### How to run it
-1. Execute this command :
+- Execute this command :
 ```bash
 cd c:/is-Engine-Web-Demo
 emsdk activate latest
@@ -28,8 +28,8 @@ Note that you can also use this command which directly launches the page with yo
 emrun index.html
 ```
 But note that there can be bugs sometimes (In any case on my machine I meet some ^^).
-2. Visit this url **localhost:6931** (The port entered here is the one located in the terminal) in your **Web Browser**.
-3. If all goes well you will have a **Hello World Screen** on your **Web Browser**.
+- Visit this url **localhost:6931** (The port entered here is the one located in the terminal) in your **Web Browser**.
+- If all goes well you will have a **Hello World Screen** on your **Web Browser**.
 
 ![Image](./images/demo_screen.png)
 

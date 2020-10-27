@@ -4,16 +4,14 @@ This project allows you to launch [is::Engine Hello World](https://github.com/Is
 ## Prerequisites
 - Emscripen (1.39.7 +)
 - Python (3.8.1 +)
-- CMake (3.1 +)
 - Java
 
 ## Installation
 ##### Windows
 1. Download [Emscripten](https://github.com/emscripten-core/emsdk) and install it in **C:/emsdk**, define its path in the environment variable **Path**
 2. Download [Python](https://www.python.org/downloads/release/python-381/) after installation, define its path in the environment variable **Path**
-3. Download [CMake](https://cmake.org/download/) after installation, define its path in the environment variable **Path**
-4. Download [Java](https://www.oracle.com/java/technologies/javase-jre8-downloads.html) after installation, define its path in the environment variable **Path**
-5. Move the **is-Engine-Web-Demo** project to your **C:/ (C:/is-Engine-Web-Demo)**.
+3. Download [Java](https://www.oracle.com/java/technologies/javase-jre8-downloads.html) after installation, define its path in the environment variable **Path**
+4. Move the **is-Engine-Web-Demo** project to your **C:/ (C:/is-Engine-Web-Demo)**.
 
 #### How to run it
 - Execute this command :

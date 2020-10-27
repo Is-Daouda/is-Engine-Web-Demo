@@ -1,13 +1,13 @@
 # is::Engine Web Demo
 This project allows you to launch [is::Engine Hello World](https://github.com/Is-Daouda/is-Engine) on the web. I don't have a web server yet so you need to run it on your machine with emscripten.
 
-## Prerequisites**
+## Prerequisites
 - Emscripen (1.39.7 +)
 - Python (3.8.1 +)
 - CMake (3.1 +)
 - Java
 
-## Installation**
+## Installation
 ##### Windows
 1. Download [Emscripten](https://github.com/emscripten-core/emsdk) and install it in **C:/emsdk**, define its path in the environment variable **Path**
 2. Download [Python](https://www.python.org/downloads/release/python-381/) after installation, define its path in the environment variable **Path**

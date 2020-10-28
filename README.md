@@ -1,5 +1,6 @@
 # is::Engine Web Demo
-This project allows you to launch [is::Engine Hello World](https://github.com/Is-Daouda/is-Engine) on the web. I don't have a web server yet so you need to run it on your machine with emscripten.
+- This project allows you to launch [is::Engine Hello World](https://github.com/Is-Daouda/is-Engine) on your machine with emscripten (the project is already compiled).
+- To launch the demo from your browser **[click here](https://is-daouda.github.io/)**
 
 ## Prerequisites
 - Emscripen (1.39.7 +)
